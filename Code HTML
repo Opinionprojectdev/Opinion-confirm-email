@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Opinion</title>
+  <style>
+    body { font-family: -apple-system, sans-serif; display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; margin: 0; background: #F2F2F7; }
+    h1 { font-size: 24px; color: #111827; }
+    p { color: #6B7280; text-align: center; }
+    .check { font-size: 60px; }
+  </style>
+</head>
+<body>
+  <div class="check">✅</div>
+  <h1>Email confirmé !</h1>
+  <p>Revenez sur l'app Opinion<br>pour vous connecter.</p>
+</body>
+</html>
